@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=oppahansi&show_icons=true&theme=radical" />  
     <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="195" />  
 </p>  
-  
+</br>
 
 <p align="center">
   <samp>:hammer_and_wrench: Relevant Tech Stack</samp>
@@ -40,6 +40,7 @@
   <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
   <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
 </p>
+</br>
 
 
 <p align="center">
@@ -48,11 +49,12 @@
 <p align="center">
   <samp>...</samp>
 </p>
-
+</br>
 
 <p align="center">
   <samp>:raising_hand: Currently open for side projects and collaborations.</samp>
 </p>
+</br>
 
 ****  
 
@@ -62,6 +64,7 @@
   <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oppahansi">
 </p>
+</br>
 
 ****  
 
