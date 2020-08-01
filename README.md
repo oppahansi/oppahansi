@@ -11,7 +11,7 @@
   
 
 <p align="center">
-  <samp>Relevant Tech Stack :hammer_and_wrench:</samp>
+  <samp>:hammer_and_wrench: Relevant Tech Stack</samp>
 </p>
 <p align="center">
   <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
@@ -43,7 +43,7 @@
 
 
 <p align="center">
-  <samp>Active Public Projects :floppy_disk:</samp>
+  <samp>:floppy_disk: Active Public Projects</samp>
 </p>
 <p align="center">
   <samp>...</samp>
@@ -51,7 +51,7 @@
 
 
 <p align="center">
-  <samp>Currently open for side projects and collaborations. :raising_hand:</samp>
+  <samp>:raising_hand: Currently open for side projects and collaborations.</samp>
 </p>
 
 ****  
