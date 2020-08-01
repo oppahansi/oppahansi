@@ -54,7 +54,6 @@
 <p align="center">
   <samp>:raising_hand: Currently open for side projects and collaborations.</samp>
 </p>
-</br>
 
 ****  
 
