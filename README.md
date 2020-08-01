@@ -64,7 +64,6 @@
   <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oppahansi">
 </p>
-</br>
 
 ****  
 
